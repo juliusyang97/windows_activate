@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+    支持的个版本 KEY
+---------------------------------------------------------------
+Windows 10 S: V3WVW-N2PV2-CGWC3-34QGF-VMJ2C
+Windows 10 SN: NH9J3-68WK7-6FB93-4K3DF-DJ4F6
+---------------------------------------------------------------
+Windows 10 家庭版: YTMG3-N6DKC-DKB77-7M9GH-8HVX7
+Windows 10 家庭N: 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW
+Windows 10 家庭国家版: N2434-X9D7W-8PF6X-8DV9T-8TYMD
+Windows 10 单语言版: BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
+---------------------------------------------------------------
+Windows 10 专业版: VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows 10 专业N: 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+Windows 10 专业教育版: 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
+Windows 10 专业教育N: GJTYN-HDMQY-FRR76-HVGC7-QPF8P
+Windows 10 专业工作站版: DXG7C-N36C4-C4HTG-X4T3X-2YV77
+Windows 10 专业工作站N: WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
+---------------------------------------------------------------
+Windows 10 教育版: YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+Windows 10 教育N: 84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+---------------------------------------------------------------
+Windows 10 企业版: XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+Windows 10 企业N: NK96Y-D9CD8-W44CQ-R8YTK-DYJWX
+---------------------------------------------------------------
